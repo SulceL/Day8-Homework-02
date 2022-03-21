@@ -1,8 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-
-/*int number1a = 45;
+﻿
+/*int number1 = 45;
 int number2 = 7;
 */
 double result = 0;
